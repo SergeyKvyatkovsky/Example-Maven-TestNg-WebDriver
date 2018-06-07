@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Project/Focus/Script_and_code/BDD/focus-cucumber+Qmetry/testTz/src/test/resourses">
+        <groups>
+            <run>
+                <include name="auth"/>
+            </run>
+        </groups>
+                <classes>
+                    <class name="sampl.SampleTest"></class>
+                </classes>
+    </test>
+</suite>

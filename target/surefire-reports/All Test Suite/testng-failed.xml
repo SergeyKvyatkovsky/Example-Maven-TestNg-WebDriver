@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [All Test Suite]">
+  <test name="D:/Project/Focus/Script_and_code/BDD/focus-cucumber+Qmetry/testTz/src/test/resourses(failed)">
+    <groups>
+      <run>
+        <include name="auth"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="sampl.SampleTest">
+        <methods>
+          <include name="closedBrowser"/>
+          <include name="testSendMail"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- sampl.SampleTest -->
+    </classes>
+  </test> <!-- D:/Project/Focus/Script_and_code/BDD/focus-cucumber+Qmetry/testTz/src/test/resourses(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
